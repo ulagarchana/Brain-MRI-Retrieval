@@ -5,7 +5,7 @@
 **Group 4**
 ---
 
-## **Team Members**  
+## **Group Members**  
 Ulagarchana Ulaga Narasimhan  
 Harshini Balamurugan Vadivazhagi       
 Pranav Mandava  
