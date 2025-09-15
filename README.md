@@ -1,3 +1,5 @@
+# **Brain MRI Image Retrieval using HOG and ResNet Features**
+
 **Course**: CSE 515 - Multimedia and Web Databases  
 **Phase**: Project Phase 1  
 **Group 4**
