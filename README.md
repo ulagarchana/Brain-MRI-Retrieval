@@ -1,5 +1,3 @@
-# Brain-MRI-Retrieval 
-
 **Course**: CSE 515 - Multimedia and Web Databases  
 **Phase**: Project Phase 1  
 **Group 4**
